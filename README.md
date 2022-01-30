@@ -1,2 +1,2 @@
-# Assignment-DeepLearning-Kashyap_Suratia
+# Project-DeepLearning-Kashyap_Suratia
 
