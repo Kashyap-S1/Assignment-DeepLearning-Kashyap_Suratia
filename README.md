@@ -7,6 +7,6 @@ Following tasks were completed.
 
 
 
-Prepared the data for training and testing
-Built and trained custom LSTM RNNs
-Evaluated the performance of each model
+1) Prepared the data for training and testing.
+2) Built and trained custom LSTM RNNs.
+3) Evaluated the performance of each model.
